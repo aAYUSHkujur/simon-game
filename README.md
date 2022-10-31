@@ -1,0 +1,2 @@
+# simon-game
+using jQuery
